@@ -1,0 +1,18 @@
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+.poem-text {
+	text-align: center;
+	margin-top: 10vh;
+}
+
+.typed-cursor {
+	color: #28AFB0;
+	font-size: 150%;
+	font-weight: 300;
+}
+
+#typed-strings {
+	white-space:pre;
+}
